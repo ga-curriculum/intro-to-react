@@ -5,9 +5,12 @@
 
 ## Features of React
 
-Reduced Server Load: Explain how React's efficient update and rendering system minimizes server load and improves performance.
-
 State Management: Introduce the concept of state in React, explaining how it helps in managing and maintaining data within the app.
 
-Modularization and Reusability: Discuss how React promotes the use of components, leading to modular and reusable code.
-Virtual DOM: Introduce the concept of the Virtual DOM and how React uses it to optimize updates and rendering.
+Modular Components: Discuss how React promotes the use of components, leading to modular and reusable code.
+
+Component-Based Rendering based on state changes
+
+JSX: Mixin' it up!
+
+Virtual DOM: React creates a shadow version of the dom that inherits in case of nuclear disaster.
