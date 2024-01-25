@@ -1,1 +1,1 @@
-# ![[tktk Module Name]](../assets/hero.png)
+# ![Intro to React](../assets/hero.png)
