@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module serves as a brief introduction to React and its foundational concepts.
 
 ## Prerequisites
 
@@ -12,10 +12,9 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [What is React?](./what-is-react/README.md)                            | -- | -- | tktk skills covered |
+| [What is React?](./what-is-react/README.md)        | -- | -- | Describing Reacts role in modern web development |
 | [Features of React](./features-of-react/README.md) | -- | -- | tktk skills covered                    |
-| [React Ecosystem](./react-ecosystem/README.md) | -- | -- | tktk skills covered                    |
-| **Total content**                                        | -- | -- |                                        |
+| **Total content**                                  | -- | -- |                                        |
 
 ## References
 
