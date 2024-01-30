@@ -26,7 +26,7 @@ React utilizes JSX, an XML-like syntax extension to JavaScript. XML is short for
 
 This is what JSX looks like:
 ```javascript
-function MyHeader() {
+const MyHeader () => {
   return (
     <h1>This is a header</h1>
   );
@@ -39,6 +39,8 @@ function MyHeader() {
 ### Virtual DOM: React creates a shadow version of the dom that inherits in case of nuclear disaster.
 
 React handles UI updates through a mechanism known as the Virtual Dom. The Virtual DOM is a representation of the actual DOM and is a staging area for changes that will eventually be implemented. Because of that, React can keep track of changes in the actual DOM by comparing different instances of the Virtual DOM.
+
+Here is a breakdown of the process:
 
 - First, React renders to an in-memory representation of the DOM, known as the **Virtual DOM**.
 - After the rendering is done, React compares the latest Virtual DOM to the previous Virtual DOM and computes only the difference, known as the **diff**.
@@ -59,6 +61,6 @@ The React ecosystem includes:
 
 - **Build Tools**: Tools like Create React App (CRA) and Vite are a major aspect of the React ecosystem. They streamline the setup and build process, and allow developers to focus on code, rather than the configuration of the app.
 
-> As of this writing, Create React App is being phased out however you will likely encounter code or references to CRA as it was the predominent method for generating a React App.
+  > As of this writing, Create React App is being phased out however you will likely encounter code or references to CRA as it was the predominent method for generating a React App.
 
 - **React-based Frameworks**: In recent years, frameworks built on top of React have emerged as solutions for the perceived shortcomings of the React library. These frameworks include tools like Next.js and Remix. They offer features like server-side rendering and static site generation, which are helpful for SEO and optimization.
