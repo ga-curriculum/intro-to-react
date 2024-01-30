@@ -13,7 +13,7 @@ This module serves as a brief introduction to React and its foundational concept
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [What is React?](./what-is-react/README.md)        | -- | -- | Describing Reacts role in modern web development |
-| [Features of React](./features-of-react/README.md) | -- | -- | tktk skills covered                    |
+| [Features of React](./features-of-react/README.md) | -- | -- | Describing prominent features of React.                  |
 | **Total content**                                  | -- | -- |                                        |
 
 ## References
