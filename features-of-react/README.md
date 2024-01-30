@@ -1,6 +1,6 @@
 # ![Intro to React - Features of React](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to describe the prominnent features of React.
+**Learning objective:** By the end of this lesson, students will be able to describe the prominent features of React.
 
 
 ## Features of React
