@@ -2,12 +2,6 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-
-## Level Up references
-
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [ReactJS Quick Start](https://react.dev/learn)
+- [Vite](https://vitejs.dev/)
+- [ReactJS - Thinking in React](https://react.dev/learn/thinking-in-react)
