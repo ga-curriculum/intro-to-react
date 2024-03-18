@@ -1,4 +1,4 @@
-# ![Intro to React](./assets/tktk-hero.png)
+# ![Intro to React](./assets/hero.png)
 
 ## About
 
