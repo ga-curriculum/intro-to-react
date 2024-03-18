@@ -14,7 +14,10 @@ React is the leading JavaScript library for, predominantly, developing single-pa
 
 Its strength lies in its component-based architecture, allowing developers to encapsulate user interface elements into reusable building blocks. This approach facilitates a more modular development process and provides more dynamic user interfaces.
 
-<!-- tktk components graphic -->
+tktk options
+![Component-based architecture](./assets/components-a.png)
+![Component-based architecture](./assets/components-b.png)
+![Component-based architecture](./assets/components-test.png)
 
 ## Usage and Popularity
 

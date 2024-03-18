@@ -12,11 +12,15 @@ React is a powerful library that has become the go-to choice for many developers
 - **Virtual DOM**
 - **React Ecosystem**
 
-### State Management
+### State management
 
-When building components in a React app, it becomes useful for the components to have the ability to change dynamically based on data. This ability to change makes a React page dynamic. React enforces this concept by using something known as _state_.  **State**, in terms of React, is a component object that tracks any changes to information contained in the state object. So, if data changes in the state object of a component, that component is updated ( or rerendered ) to reflect the update. This is useful because only components with state change will rerender while others do not. The modularity and independence of the components allow for smoother updating without needing a page refresh.
+When building components in a React app, it becomes useful for the components to have the ability to change dynamically based on data. This ability to change makes a React page dynamic. React enforces this concept by using something known as _state_. 
 
-### Modular Components
+**State**, in terms of React, is a component object that tracks any changes to information contained in the state object. So, if data changes in the state object of a component, that component is updated ( or rerendered ) to reflect the update. This is useful because only components with state change will rerender while others do not. The modularity and independence of the components allow for smoother updating without needing a page refresh.
+
+![State example](./assets/state-example.png)
+
+### Modular components
 
 **Per the React [documentation](https://react.dev/learn#components)**:
 
@@ -26,32 +30,33 @@ When building components in a React app, it becomes useful for the components to
 
 A core concept of programming in React is the ability to write and reuse components throughout an entire application. This practice is reinforced by having all components rendered through a single HTML document in the browser. One can also import and render as many components as needed inside other components. The result of this structure encourages users to think in a more modular manner as they begin to see patterns emerge from their work. A developer can even write logic to render ( or not render ) sub-components based on the information housed in the state of a parent component.
 
+![Component return](./assets/return-markup.png)
+
 ### JSX: Mixin' it up!
 
 React utilizes JSX, an XML-like syntax extension to JavaScript. XML is short for extensible markup language. JSX was created by Facebook for use in React. It provides a way to concisely define tree structures with attributes - perfect for defining a DOM tree! It is _transpiled_ into pure JavaScript. JSX is simple and easy to read. Compared to pure JavaScript, JSX provides a more concise and more straightforward (better) way to define a UI. JSX resembles HTML, allowing us to visualize the UI its JavaScript will create more easily.
 
-This is what JSX looks like:
-```javascript
-const MyHeader () => {
-  return (
-    <h1>This is a header</h1>
-  );
-}
+This is what JSX looks like in the context of a component:
 
-<MyHeader /> //This is how we render a component using JSX
-```
+![Component anatomy](./assets/component-anatomy.png)
+
+1. The function definition. Determines the name of the component.
+2. The markup returned from the component.
+3. The syntax used to render the component.
 
 > _Transpiled_ is when code is converted from one language to another. In the case of JSX, it is converted to JavaScript.
 
 ### Virtual DOM: React creates a shadow version of the dom that inherits in case of a nuclear disaster.
 
-React handles UI updates through a mechanism known as the Virtual Dom. The Virtual DOM represents the actual DOM and is a staging area for changes that will eventually be implemented. Because of that, React can keep track of changes in the actual DOM by comparing different instances of the Virtual DOM.
+React handles UI updates through a mechanism known as the **Virtual Dom**. The Virtual DOM represents the actual DOM and is a staging area for changes that will eventually be implemented. Because of that, React can keep track of changes in the actual DOM by comparing different instances of the Virtual DOM.
 
 Here is a breakdown of the process:
 
 - React renders an in-memory representation of the DOM, known as the **Virtual DOM**.
 - After the rendering, React compares the latest Virtual DOM to the previous Virtual DOM and computes only the difference, known as the **diff**.
 - React then updates the browser's actual DOM with the actual changes (the computed **diff**).
+
+![Virtual DOM](./assets/virtual-dom.png)
 
 ## React Ecosystem
 
