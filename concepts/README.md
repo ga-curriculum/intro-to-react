@@ -17,7 +17,7 @@ Its strength lies in its component-based architecture, allowing developers to en
 tktk options
 ![Component-based architecture](./assets/components-a.png)
 ![Component-based architecture](./assets/components-b.png)
-![Component-based architecture](./assets/components-test.png)
+![Component-based architecture](./assets/components-c.png)
 
 ## Usage and Popularity
 
