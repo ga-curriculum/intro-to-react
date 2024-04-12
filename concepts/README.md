@@ -22,3 +22,13 @@ tktk options
 ## Usage and Popularity
 
 React is one of the most popular advanced front-end libraries in use today. It has been widely adopted by many prominent tech companies and boasts an active, open-source community. This widespread support makes it a dependable choice for tech companies, increasing the number of available React roles and further expanding the open-source community.
+
+## Features of React
+
+React is a powerful library that has become the go-to choice for many developers. It has several features that make it a popular choice for building user interfaces. These features include:
+
+- **State Management**
+- **Modular Components**
+- **JSX**
+- **Virtual DOM**
+- **React Ecosystem**
