@@ -1,6 +1,6 @@
 # ![Intro to React - State Management](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be introduced to the concept of state in React. 
+**Learning objective:** By the end of this lesson, students will be introduced to the concept of state in React.
 
 ## State management
 
