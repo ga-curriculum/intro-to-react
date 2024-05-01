@@ -16,8 +16,6 @@ React is a powerful library that has become the go-to choice for many developers
 
 When building components in a React app, it becomes useful for the components to have the ability to change dynamically based on data. This ability to change makes a React page dynamic. React enforces this concept by using something known as _state_. **State**, in terms of React, is a component object that tracks any changes to information contained in the state object. So, if data changes in the state object of a component, that component is updated ( or rerendered ) to reflect the update. This is useful because only components with state change will rerender while others do not. The modularity and independence of the components allow for smoother updating without needing a page refresh.
 
-![tktk Hunter can we get a graphic of an interface with a few list items rendered that matches a "state object" something that is clearly not on the page but matches what is on the page. Lets chat- LP]()
-
 **State**, in terms of React, is a component object that tracks any changes to information contained in the state object. So, if data changes in the state object of a component, that component is updated ( or rerendered ) to reflect the update. This is useful because only components with state change will rerender while others do not. The modularity and independence of the components allow for smoother updating without needing a page refresh.
 
 ![State example](./assets/state-example.png)
@@ -31,8 +29,6 @@ When building components in a React app, it becomes useful for the components to
 > React components are JavaScript functions that return markup.
 
 A core concept of programming in React is the ability to write and reuse components throughout an entire application. This practice is reinforced by having all components rendered through a single HTML document in the browser. One can also import and render as many components as needed inside other components. The result of this structure encourages users to think in a more modular way as they begin to see patterns emerge from their work. A developer can even write logic to render ( or not render ) sub-components based on the information housed in the state of a parent component.
-
-![tktk Hunter can we get a graphic of some button components here being controlled by state objects, lets chat -LP]()
 
 ![Component return](./assets/return-markup.png)
 
