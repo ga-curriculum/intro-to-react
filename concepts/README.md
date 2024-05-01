@@ -14,7 +14,7 @@ React apps consist of **components** that we code using JavaScript.
 
 React's strength lies in its component-based architecture, allowing developers to encapsulate user interface elements into reusable building blocks. This approach facilitates a more modular development process and provides more dynamic user interfaces.
 
-![Component-based architecture](./assets/components-c.png)
+![Component-based architecture](./assets/card-component.png)
 
 ## Usage and popularity
 
