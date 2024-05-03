@@ -4,9 +4,9 @@
 
 ## Virtual Document Object Model (virtual DOM)
 
-Often when state is changed 
+Often, when state is changed what is shown to the user changes as well. React handles these UI updates through a mechanism called the ***virtual DOM***. The virtual DOM is a copy of the actual DOM  any updates that should be made to the actual DOM and acts as a staging area for changes that will eventually be implemented.
 
-React handles UI updates caused by changes to state through a mechanism called the ***virtual DOM***. The virtual DOM represents the actual DOM and is a staging area for changes that will eventually be implemented. Because of that, React can keep track of changes in the actual DOM by comparing different instances of the virtual DOM.
+When React makes these changes, it does so  keep track of changes in the actual DOM by comparing it to the virtual DOM.
 
 Here is a breakdown of the process:
 
