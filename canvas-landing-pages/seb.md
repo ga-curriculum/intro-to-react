@@ -4,10 +4,6 @@
 
 React is one of the most popular front-end libraries used in web development today. In this module, you will explore React's essential features, including components, state management, and the Virtual DOM. Each lesson is designed to introduce you to the practical ways React has advanced modern web development. Dive into React’s core concepts, explore its extensive ecosystem, and lay a strong foundation for your future skills in advanced front end web development.
 
-## Prerequisites
-
-- Intro to SPAs
-
 ## Content
 
 | Lesson                                                | Video Time | Video | Skills                                                        |
