@@ -10,15 +10,15 @@ React is one of the most popular front-end libraries used in web development tod
 
 ## Content
 
-| Lesson                                               | Video Time | Video | Skills                                                        |
-| ---------------------------------------------------- | :--------: | :---: | ------------------------------------------------------------- |
-| [Concepts](./concepts/README.md)                     |     --     |  --   | Describing Reacts role in modern web development              |
-| [Components](./components/README.md) |     --     |  --   | Introduce the concepts of components in React                 |
-| [JSX](./jsx/README.md)                               |     --     |  --   | Introduce the use of JSX in React                             |
-| [State Management](./state-management/README.md)     |     --     |  --   | Introduce the concept of state in React                       |
-| [Virtual DOM](./virtual-dom/README.md)               |     --     |  --   | How React uses a virtual DOM to implement targeted UI updates |
-| [React Ecosystem](./react-ecosystem/README.md)       |     --     |  --   | Explore the tools available in the React Ecosystem            |
-| **Total content**                                    |     --     |  --   |                                                               |
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [Concepts](./concepts/README.md)                 | -- | -- | Describe React's role in modern web development.                            |
+| [Components](./components/README.md)             | -- | -- | Introduce the concept of components in React.                               |
+| [JSX](./jsx/README.md)                           | -- | -- | Introduce the use of JSX in React.                                          |
+| [State Management](./state-management/README.md) | -- | -- | Introduce the concept of state in React.                                    |
+| [Virtual DOM](./virtual-dom/README.md)           | -- | -- | Introduce how React's virtual DOM is used to implement targeted UI updates. |
+| [React Ecosystem](./react-ecosystem/README.md)   | -- | -- | Explore the tools available in the React ecosystem.                         |
+| **Total content**                                | -- | -- |                                                                             |
 
 ## References
 
