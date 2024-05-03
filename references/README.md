@@ -2,6 +2,10 @@
 
 ## Lesson references
 
-- [ReactJS Quick Start](https://react.dev/learn)
+- [React - Quick Start - Creating and nesting components](https://react.dev/learn#components)
+- [npm](https://www.npmjs.com/)
+- [Create React App](https://create-react-app.dev/)
 - [Vite](https://vitejs.dev/)
-- [ReactJS - Thinking in React](https://react.dev/learn/thinking-in-react)
+- [Next.js](https://nextjs.org/)
+- [Remix](https://remix.run/)
+- [Gatsby](https://www.gatsbyjs.com/)
