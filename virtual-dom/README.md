@@ -4,14 +4,19 @@
 
 ## Virtual Document Object Model (virtual DOM)
 
-Often, when state is changed what is shown to the user changes as well. React handles these UI updates through a mechanism called the ***virtual DOM***. The virtual DOM is a copy of the actual DOM  any updates that should be made to the actual DOM and acts as a staging area for changes that will eventually be implemented.
+When state is changed, what is shown to the user also changes. React handles these UI updates through a mechanism called the ***virtual DOM***.
 
-When React makes these changes, it does so  keep track of changes in the actual DOM by comparing it to the virtual DOM.
+The internal mechanics of the virtual DOM won't typically be relevant to you as a developer, but understanding the basics of this feature can provide helpful context in understanding why React works the way it does.
 
-Here is a breakdown of the process:
+The virtual DOM starts as essentially a copy of the actual DOM. When updates are made to state, any necessary UI changes are reflected in a brand new version of the virtual DOM.
 
-- React renders an in-memory representation of the DOM, known as the **virtual DOM**.
-- After the rendering, React compares the latest virtual DOM to the previous Virtual DOM and computes only the difference, known as the **diff**.
-- React then updates the browser's actual DOM with the actual changes (the computed **diff**).
+The two versions of the virtual DOM are then compared. The differences between them are calculated - this is called ***reconciliation***. The result of this reconciliation is called a ***diff***.
+
+The actual DOM is then updated (or re-rendered) based on the calculated diff.
 
 ![Virtual DOM](./assets/virtual-dom.png)
+
+All of this matters to you for two reasons:
+
+- It means you don't have to worry about how to transition your application from one state to another, significantly reducing the amount and complexity of code you have to write yourself.
+- While this may seem complex and time-consuming, it is vastly more efficient than interacting directly with the actual DOM.
