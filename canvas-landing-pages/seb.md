@@ -9,9 +9,9 @@ React is one of the most popular front-end libraries used in web development tod
 | Lesson | Skills |
 | ------ | ------ |
 | [Concepts](../concepts/README.md)                 | Describe React's role in modern web development.                            |
-| [State Management](../state-management/README.md) | Introduce the concept of components in React.                               |
 | [Components](../components/README.md)             | Introduce the use of JSX in React.                                          |
 | [JSX](../jsx/README.md)                           | Introduce the concept of state in React.                                    |
+| [State Management](../state-management/README.md) | Introduce the concept of components in React.                               |
 | [Virtual DOM](../virtual-dom/README.md)           | Introduce how React's virtual DOM is used to implement targeted UI updates. |
 | [React Ecosystem](../react-ecosystem/README.md)   | Explore the tools available in the React ecosystem.                         |
 

@@ -4,8 +4,6 @@
 
 ## State management
 
- as a result of the user interacting with the application.
-
 State management is a crucial aspect of React. Components will often need to remember information that will determine what is rendered to the screen in the browser. This information may change over time in response to events such as user actions. React uses ***state*** as the mechanism for this. Think of state as the present status or condition of something.
 
 For instance, a television has state - what the volume is set to, what channel or input is being shown, or whether it is on or off - all of which would be considered state.
