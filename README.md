@@ -12,13 +12,13 @@ React is one of the most popular front-end libraries used in web development tod
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Concepts](./concepts/README.md)                 | -- | -- | Describe React's role in modern web development.                            |
-| [Components](./components/README.md)             | -- | -- | Introduce the concept of components in React.                               |
-| [JSX](./jsx/README.md)                           | -- | -- | Introduce the use of JSX in React.                                          |
-| [State Management](./state-management/README.md) | -- | -- | Introduce the concept of state in React.                                    |
-| [Virtual DOM](./virtual-dom/README.md)           | -- | -- | Introduce how React's virtual DOM is used to implement targeted UI updates. |
-| [React Ecosystem](./react-ecosystem/README.md)   | -- | -- | Explore the tools available in the React ecosystem.                         |
-| **Total content**                                | -- | -- |                                                                             |
+| [Concepts](./concepts/README.md)                 |  3 min | [link](https://generalassembly.wistia.com/medias/wki7ts7md5) | Describe React's role in modern web development.                            |
+| [Components](./components/README.md)             | 11 min | [link](https://generalassembly.wistia.com/medias/a157e4tyq3) | Introduce the concept of components in React.                               |
+| [JSX](./jsx/README.md)                           |  4 min | [link](https://generalassembly.wistia.com/medias/injmnhy5nd) | Introduce the use of JSX in React.                                          |
+| [State Management](./state-management/README.md) |  3 min | [link](https://generalassembly.wistia.com/medias/scbeqv113w) | Introduce the concept of state in React.                                    |
+| [Virtual DOM](./virtual-dom/README.md)           |  4 min | [link](https://generalassembly.wistia.com/medias/6a52t396kk) | Introduce how React's virtual DOM is used to implement targeted UI updates. |
+| [React Ecosystem](./react-ecosystem/README.md)   |  3 min | [link](https://generalassembly.wistia.com/medias/mvwxzypgdi) | Explore the tools available in the React ecosystem.                         |
+| **Total content**                                | 28 min | --                                                           |                                                                             |
 
 ## References
 
