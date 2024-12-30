@@ -1,12 +1,11 @@
-# ![Intro to React](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to React</span>
+</h1>
 
 ## About
 
-React is one of the most popular front-end libraries used in web development today. In this module, you will explore React's essential features, including components, state management, and the Virtual DOM. Each lesson is designed to introduce you to the practical ways React has advanced modern web development. Dive into React’s core concepts, explore its extensive ecosystem, and lay a strong foundation for your future skills in advanced front end web development.
-
-## Prerequisites
-
-- Intro to SPAs
+React is one of the most popular front-end libraries used in web development today. In this module, you will explore React's essential features, including components, state management, and the Virtual DOM. Each lesson is designed to introduce you to the practical ways React has advanced modern web development. Dive into React's core concepts, explore its extensive ecosystem, and lay a strong foundation for your future skills in advanced front end web development.
 
 ## Content
 
@@ -24,7 +23,19 @@ React is one of the most popular front-end libraries used in web development tod
 
 📖 [Reference Materials](./references/README.md)
 
-## Internal resources
+## Internal
+
+### Prerequisites
+
+- Intro to SPAs
+
+### Course landing pages
+
+- [RDS - React Development Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-react/canvas-landing-pages/rds.html)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-react/canvas-landing-pages/seb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-react/canvas-landing-pages/fallback.html)
+
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
@@ -34,4 +45,4 @@ React is one of the most popular front-end libraries used in web development tod
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**

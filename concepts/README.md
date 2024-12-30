@@ -1,4 +1,7 @@
-# ![Intro to React - What is React?](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to React</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to describe React's role in modern web development and how it came to be.
 

@@ -1,4 +1,7 @@
-# ![Intro to React - Components](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to React</span>
+  <span class="subhead">Components</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be introduced to the concept of modular components in React.
 

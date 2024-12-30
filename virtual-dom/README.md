@@ -1,4 +1,7 @@
-# ![Intro to React - Virtual DOM](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to React</span>
+  <span class="subhead">Virtual DOM</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to describe how React uses a virtual DOM to make targeted updates to the UI.
 
