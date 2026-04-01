@@ -31,9 +31,9 @@ React is one of the most popular front-end libraries used in web development tod
 
 ### Course landing pages
 
-- [RDS - React Development Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-react/canvas-landing-pages/rds.html)
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-react/canvas-landing-pages/seb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-react/canvas-landing-pages/fallback.html)
+- [RDS - React Development Short Course](https://ga-curriculum.github.io/intro-to-react/canvas-landing-pages/rds.html)
+- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/intro-to-react/canvas-landing-pages/seb.html)
+- [Fallback](https://ga-curriculum.github.io/intro-to-react/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -45,4 +45,4 @@ React is one of the most popular front-end libraries used in web development tod
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
